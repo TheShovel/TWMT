@@ -5,7 +5,7 @@ A modding tool for projects packaged with TurboWarp (https://turbowarp.org)
 Press Ctrl+Shift+I on your keyboard while playing a project. This will bring up the inspect element tools.  
 Now press the "Console" tab.  
 ![image](https://github.com/TheShovel/TWMT/assets/68913917/63a30f17-dffc-4621-a293-ddf2a2e1b9a4)  
-You will then have to copy this line of code ```vm.extensionManager.loadExtensionURL("http://localhost:8000/ModLoader.js");``` and paste it (pressing Ctrl+V)  
+You will then have to copy this line of code ```vm.extensionManager.loadExtensionURL("https://theshovel.github.io/TWMT/ModLoader.js");``` and paste it (pressing Ctrl+V)  
 After you press enter, the modding tools will appear like this  
 ![Screenshot_20230918_190356](https://github.com/TheShovel/TWMT/assets/68913917/fc1ccbeb-7717-44e5-8f98-f3f601b9d85a)
 ## Load external extension
