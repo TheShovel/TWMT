@@ -15,7 +15,7 @@ This will load an external TurboWarp or vanilla Scratch sprite. You can use this
 ### PLEASE NOTE
 The sprites you import can't contain
 - Broadcasts that don't exist in the original project.
-- Blocks from textensions that the project doesn't use, or you didn't manually load with "Load external extension".
+- Blocks from extensions that the project doesn't use, or you didn't manually load with "Load external extension".
 ## Download project file
 Downloads the project file. Duh.
 ## Frame rate
